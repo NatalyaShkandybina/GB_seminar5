@@ -1,0 +1,15 @@
+C:\GeekBrains\NEW\seminar5\task36\bin\Debug\net6.0\task36.exe
+C:\GeekBrains\NEW\seminar5\task36\bin\Debug\net6.0\task36.deps.json
+C:\GeekBrains\NEW\seminar5\task36\bin\Debug\net6.0\task36.runtimeconfig.json
+C:\GeekBrains\NEW\seminar5\task36\bin\Debug\net6.0\task36.dll
+C:\GeekBrains\NEW\seminar5\task36\bin\Debug\net6.0\task36.pdb
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.csproj.AssemblyReference.cache
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.AssemblyInfoInputs.cache
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.AssemblyInfo.cs
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.csproj.CoreCompileInputs.cache
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.dll
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\refint\task36.dll
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.pdb
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\task36.genruntimeconfig.cache
+C:\GeekBrains\NEW\seminar5\task36\obj\Debug\net6.0\ref\task36.dll
